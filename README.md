@@ -13,7 +13,7 @@ for the Microsoft Azure Administrator (AZ-104) certification.
 
 | # | Lab | Topic | Status |
 |---|-----|-------|--------|
-| 01 | [Lab name] | Identity / RBAC | ⬜ Not started |
+| 01 | [Lab name] | Identity / RBAC | ✅ Not started |
 | 02 | [Lab name] | Virtual networks | ⬜ Not started |
 | 03 | [Lab name] | Storage | ⬜ Not started |
 | 04 | [Lab name] | Compute / VMs | ⬜ Not started |
