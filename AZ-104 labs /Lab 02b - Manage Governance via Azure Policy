@@ -1,0 +1,22 @@
+# Lab 02a — [Manage Subscriptions and RBAC]
+
+**Source:** [Az-104 / Microsoft Labs] — [link]
+**Azure services:** [e.g. Microsoft Subscriptions Entra ID, RBAC]
+**Date completed:** [2026-06-29]
+
+## Objective
+The objective of this lab was to create tags and asssign them to resource groups in the Azure portal. This enabled tagging to be enforced and applied by a policy. I can configure a resource lock and test the resourcde to ensure the locks are functioning correctly.
+## What I did
+1. I Created and assign tags via the Azure portal.
+2. I Enforced tagging via an Azure Policy.
+3. I Applied tagging via an Azure Policy.
+4. I Configured and test resource locks.
+
+## Evidence
+![Result 1](Azure Policy - Creating a tag and policy assingment.png)
+![Result 2](Azure Policy - Storage account expected error.png)
+![Result 3](Azure Policy - Creating a inherited tag and policy.png)
+![Result 4](Azure Policy - Resource locks.png)
+
+## Cleanup
+- [ ] Resources deleted / resource group removed to avoid charges
