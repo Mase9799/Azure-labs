@@ -13,11 +13,11 @@ for the Microsoft Azure Administrator (AZ-104) certification.
 
 | # | Lab | Topic | Status |
 |---|-----|-------|--------|
-| 01 | [Lab name] | Identity / RBAC | ⬜ Not started |
-| 02 | [Lab name] | Virtual networks | ⬜ Not started |
-| 03 | [Lab name] | Storage | ⬜ Not started |
-| 04 | [Lab name] | Compute / VMs | ⬜ Not started |
-| 05 | [Lab name] | Monitoring | ⬜ Not started |
+| 01 | [Lab 02a - Manage Subscriptions and RBAC] | Subscriptions / RBAC | ⬜ Not started |
+| 02 | [Lab 02b - Manage Governance via Azure Policy] | Policy / Governance | ⬜ Not started |
+| 03 | [Lab 07 - Manage Azure Storage] | Storage | ⬜ Not started |
+| 04 | [Lab 08 - Manage Virtual Machines] | Compute / VMs | ⬜ Not started |
+| 05 | [Lab 03 - Manage Azure resources by using Azure Resource Manager Templates] | ARM Templates | ⬜ Not started |
 
 *(Mark each ✅ Complete as you go. Each lab lives in `/labs` using the template provided.)*
 
